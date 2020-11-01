@@ -12,4 +12,4 @@ Topics:
 
 Thumbnail: <br>
 
-<img src = 'Final_Thumbnail.png'>
+<img src = 'Thumbnail.png'>
