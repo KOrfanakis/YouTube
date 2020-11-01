@@ -10,5 +10,6 @@ Topics:
 - Types of Machine Learning Systems
 - Tools
 
-Thumbnail: 
+Thumbnail: <br>
+
 <img src = 'Final_Thumbnail.png'>
