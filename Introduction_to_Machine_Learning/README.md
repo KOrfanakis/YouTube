@@ -9,3 +9,6 @@ Topics:
 - Applications of Machine Learning
 - Types of Machine Learning Systems
 - Tools
+
+Thumbnail: 
+<img src = 'Final_Thumbnail.png'>
